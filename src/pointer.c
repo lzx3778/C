@@ -1,6 +1,6 @@
 #include <stdio.h>
 void swap(int *a,int *b);
-int main(){
+int pointer(){
 	int a = 1;
 	int b = 2;
 	printf("%d",a);

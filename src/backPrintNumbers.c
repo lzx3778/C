@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void){
+int backPrintNumbers(void){
 	//print a 3 digits number in the oposite way
     int a = 0;
     scanf("%d",&a);

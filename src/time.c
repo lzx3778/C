@@ -1,4 +1,5 @@
 #include <stdio.h>
-int main(){
+int time(){
     printf("lzx");
+    return 0;
 }

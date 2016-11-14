@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<windows.h>
-int main(void){
+int c1(){
 	for(int i = 0;i < 3;i++){
 		printf("%s","HI!!!   ");
 		Sleep(1000);
