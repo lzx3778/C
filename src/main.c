@@ -1,4 +1,4 @@
-#include "c1.c"
+#include "time.c"
 int main(){
-	c1();
+	time();
 }
